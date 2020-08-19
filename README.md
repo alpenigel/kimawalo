@@ -8,3 +8,9 @@
 - Bootstrap
 - Sass
 
+- Git
+- GitHub
+- Commits
+- Merge Conflicts
+- Branching
+
