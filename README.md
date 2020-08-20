@@ -31,3 +31,16 @@
 - Tasks
 - Forms
 - Sessions
+
+## SQL, Models and Migrations
+
+// - SQL
+- Tables
+- SQL Queries
+- Joining Tables
+- Django Models
+- Migrations
+- Shell
+- Django Admin
+- Many-to-Many Relationships
+- Users
