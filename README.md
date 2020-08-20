@@ -1,16 +1,22 @@
 # Jon Aziz
 
+## HTML and CSS
+
 - HTML
 - CSS
 - Responsive Design
 - Bootstrap
 - Sass
 
+## Git
+
 - Git
 - GitHub
 - Commits
 - Merge Conflicts
 - Branching
+
+## Python
 
 - Python
 - Variables
@@ -23,6 +29,8 @@
 - Functional Programming
 - Exceptions
 
+## Django
+
 - Web Applications
 - HTTP
 - Django
@@ -34,7 +42,7 @@
 
 ## SQL, Models and Migrations
 
-// - SQL
+- SQL
 - Tables
 - SQL Queries
 - Joining Tables
@@ -44,3 +52,48 @@
 - Django Admin
 - Many-to-Many Relationships
 - Users
+
+## JavaScript
+
+- JavaScript
+- Events
+- Variables
+- querySelector
+- DOM Manipulation
+- Intervals
+- Local Storage
+- APIs
+
+## User Interfaces
+
+- User Interfaces
+- Single Page Applications
+- Scroll
+- Animation
+- React
+
+## Testing and CI/CD
+
+- Testing
+- Assert
+- Unit Testing
+- Django Testing
+- Selenium
+- CI/CD
+- GitHub Actions
+- Docker
+
+## Scalability and Security
+
+- Scalability
+- Scaling
+- Load Balancing
+- Autoscaling
+- Scaling Databases
+- Caching
+- Security
+- HTML
+- HTTPS
+- Databases
+- JavaScript
+
