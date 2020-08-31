@@ -1,5 +1,13 @@
 # Jon Aziz
 
+## Projects
+
+- Portfolio
+- Blog
+- E-commerce
+- - -
+- E-bank
+
 ## HTML and CSS
 
 - HTML
