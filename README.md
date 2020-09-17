@@ -2,8 +2,9 @@ Ark
 ===
 
 | Abc         | xyZ         |
+| <img width=500/>   | <img width=500/>   |
 | :---------: | :---------: |
-| <img width=200/>:scroll:    | <img width=500/> :abacus:    |
+| :scroll:    | :abacus:    |
 | Design      | Develop     |
 | Arts        | STEM        | 
 
