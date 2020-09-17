@@ -6,6 +6,8 @@ Ark
 | :scroll:    | :abacus:    |
 | Design      | Develop     |
 | Arts        | STEM        | 
+|<img width=200/>|<img width=500/>|
+
 ---
 
 ## Projects
