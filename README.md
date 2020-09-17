@@ -3,10 +3,9 @@ Ark
 
 | Abc         | xyZ         |
 | :---------: | :---------: |
-| :scroll:    | :abacus:    |
+| <img width=200/>:scroll:    | <img width=500/> :abacus:    |
 | Design      | Develop     |
 | Arts        | STEM        | 
-|<img width=200/>|<img width=500/>|
 
 ---
 
