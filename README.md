@@ -2,12 +2,11 @@ Ark
 ===
 
 | Abc         | xyZ         |
-| <img width=500/>   | <img width=500/>   |
 | :---------: | :---------: |
 | :scroll:    | :abacus:    |
 | Design      | Develop     |
 | Arts        | STEM        | 
-
+| <img width=400/>   | <img width=400/>   |
 ---
 
 ## Projects
