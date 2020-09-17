@@ -4,8 +4,8 @@ Ark
 | Abc         | xyZ         |
 | :---------: | :---------: |
 | :scroll:    | :abacus:    |
-| Paragraph   | Text        |
-| ___________ | ___________ | 
+| Design      | Develop     |
+| Arts        | STEM        | 
 ---
 
 ## Projects
