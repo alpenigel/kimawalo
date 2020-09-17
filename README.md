@@ -1,9 +1,9 @@
 Ark    :dna:    Abc    
 ===
 
-| ## Abc      | ## Xyz      |
+| Abc         | xyZ         |
 | :---------: | :---------: |
-| ## :scroll: | ## :abacus: |
+| :scroll:    | :abacus:    |
 | Paragraph   | Text        |
 | ___________ | ___________ | 
 
