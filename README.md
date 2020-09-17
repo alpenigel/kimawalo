@@ -1,5 +1,12 @@
 # Jon Aziz
 
+| Ark      | Abc |
+| === | === |
+| Business | Personal |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 ## Projects
 
 - Portfolio
