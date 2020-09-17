@@ -1,4 +1,4 @@
-Ark    :dna:    Abc    
+Ark   
 ===
 
 | Abc         | xyZ         |
@@ -6,6 +6,7 @@ Ark    :dna:    Abc
 | :scroll:    | :abacus:    |
 | Paragraph   | Text        |
 | ___________ | ___________ | 
+---
 
 ## Projects
 
