@@ -1,9 +1,8 @@
 :abacus:    Ark    :dna:    Abc    :scroll: 
 ===
-:--:
 
-| Ark      | Abc |
-| ----------- | ----------- |
+| Ark         | Abc         |
+| :---------: | :---------: |
 | Header      | Title       |
 | Paragraph   | Text        |
 
