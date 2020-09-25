@@ -10,11 +10,13 @@ Ark
 
 ## Projects
 
+- [Tribute](https://curiousgarlic.github.io/tribute/)
 - Portfolio
 - Blog
 - E-commerce
 - - -
 - E-bank
+
 
 ## HTML and CSS
 
