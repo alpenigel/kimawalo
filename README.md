@@ -10,7 +10,8 @@ Ark
 
 ## Projects
 
-- [Tribute](https://curiousgarlic.github.io/tribute/ "Tribute to Maya Angelou")
+- HTML CSS
+    - [Tribute page](https://curiousgarlic.github.io/tribute/ "Tribute to Maya Angelou")
 - Portfolio
 - Blog
 - E-commerce
