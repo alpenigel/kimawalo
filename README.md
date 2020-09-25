@@ -1,10 +1,9 @@
 Ark   
 ===
 
-| Design         | Develop         |
+| :scroll:    | Develop         |
 | :---------: | :---------: |
-| :scroll:    | :abacus:    |
-|       |      |
+| Design      | :abacus:    |
 | Arts        | STEM        | 
 | <img width=400/>   | <img width=400/>   |
 ---
