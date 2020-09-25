@@ -1,10 +1,10 @@
 Ark   
 ===
 
-| :scroll:    | Develop         |
-| :---------: | :---------: |
-| Design      | :abacus:    |
-| Arts        | STEM        | 
+| Design             | Develop            |
+| :---------:        | :---------:        |
+| :scroll:           | :abacus:           |
+| Arts               | STEM               | 
 | <img width=400/>   | <img width=400/>   |
 ---
 
