@@ -11,7 +11,8 @@ Ark
 ## Projects
 
 - HTML CSS
-    - [Tribute page](https://curiousgarlic.github.io/tribute/ "Tribute to Maya Angelou")
+    - [Tribute Page](https://curiousgarlic.github.io/tribute/ "Tribute to Maya Angelou")
+    - [Survey Form](https://curiousgarlic.github.io/survey-form/ "Ultimate Vacation survey form")
 - Portfolio
 - Blog
 - E-commerce
