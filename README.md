@@ -10,22 +10,12 @@ Ark
 
 ## Projects
 
-- HTML CSS
+- Responsive Web Design
     - [Tribute Page](https://curiousgarlic.github.io/tribute/ "Tribute to Maya Angelou")
     - [Survey Form](https://curiousgarlic.github.io/survey/ "Dream Vacation survey form")
     - [Product Landing](https://curiousgarlic.github.io/product-landing/ "The best that Apple has to offer")
     - [Technical Documentation](https://curiousgarlic.github.io/tech-doc/ "Technical documentation for Life")
     - [Portfolio Page](https://curiousgarlic.github.io/portfolio-page/ "A portfolio page")
-
-- Portfolio
-- Blog
-- E-commerce
-- - -
-- E-bank
-
-
-## HTML and CSS
-
 - HTML
 - CSS
 - Responsive Design
