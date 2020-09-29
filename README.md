@@ -9,6 +9,7 @@ Ark
 ---
 
 | Knowledge | Tools | Projects |
+| :---: | :---: | :---: |
 | Responsive Web Design | HTML ' CSS | [Tribute Page](https://curiousgarlic.github.io/tribute/ "Tribute to Maya Angelou") |
 
 
