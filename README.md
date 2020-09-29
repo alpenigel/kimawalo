@@ -8,19 +8,11 @@ Ark
 | <img width=400/>   | <img width=400/>   |
 ---
 
-+---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | first line\   | first line\        |
-|               | next line     | next line          |
-+---------------+---------------+--------------------+
-| Bananas       | first line\   | first line\        |
-|               | next line     | next line          |
-+---------------+---------------+--------------------+
+
 
 | Knowledge | Tools | Projects |
 | :---: | :---: | :---: |
-| Responsive Web Design | HTML  CSS  Responsive Design  Bootstrap  Sass | [Tribute Page](https://curiousgarlic.github.io/tribute/ "Tribute to Maya Angelou") |
+| Responsive Web Design | HTML<br>CSS<br>Responsive Design<br>Bootstrap<br>Sass | [Tribute Page](https://curiousgarlic.github.io/tribute/ "Tribute to Maya Angelou") |
 
 
 
