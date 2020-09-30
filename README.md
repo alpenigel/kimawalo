@@ -10,7 +10,7 @@ Ark
 
 
 
-| Jon Aziz |
+| | Jon Aziz | |
 | :---: | :--- | :--- |
 | Knowledge | Tools | Projects |
 
