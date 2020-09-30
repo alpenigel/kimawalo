@@ -9,7 +9,6 @@ Ark
 | Git | Git<br>GitHub<br>Commits<br>Merge Conflicts<br>Branching |  |
 | Git | Git<br>GitHub<br>Commits<br>Merge Conflicts<br>Branching |  |
 | Git | Git<br>GitHub<br>Commits<br>Merge Conflicts<br>Branching |  |
-
 | <img width=200/> | <img width=300/>   | <img width=300/>   |
 
 ---
