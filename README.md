@@ -10,28 +10,13 @@ Ark
 
 
 
-| :scroll: | :hourglass_flowing_sand: | :gem: |
+| :scroll: | :hourglass_flowing_sand: | :abacus: |
 | :---: | :--- | :--- |
 | Knowledge | Tools | Projects |
 | Responsive Web Design | HTML<br>CSS<br>Responsive Design<br>Bootstrap<br>Sass | [Tribute Page](https://curiousgarlic.github.io/tribute/ "Tribute to Maya Angelou") <br> [Survey Form](https://curiousgarlic.github.io/survey/ "Dream Vacation survey form") <br> [Product Landing](https://curiousgarlic.github.io/product-landing/ "The best that Apple has to offer") <br> [Technical Documentation](https://curiousgarlic.github.io/tech-doc/ "Technical documentation for Life") <br> [Portfolio Page](https://curiousgarlic.github.io/portfolio-page/ "A portfolio page") |
-| :scroll: <br> Responsive Web Design | HTML<br>CSS<br>Responsive Design<br>Bootstrap<br>Sass | [Tribute Page](https://curiousgarlic.github.io/tribute/ "Tribute to Maya Angelou") <br> [Survey Form](https://curiousgarlic.github.io/survey/ "Dream Vacation survey form") <br> [Product Landing](https://curiousgarlic.github.io/product-landing/ "The best that Apple has to offer") <br> [Technical Documentation](https://curiousgarlic.github.io/tech-doc/ "Technical documentation for Life") <br> [Portfolio Page](https://curiousgarlic.github.io/portfolio-page/ "A portfolio page") |
+| Git | Git<br>GitHub<br>Commits<br>Merge Conflicts<br>Branching |  |
 | <img width=200/> | <img width=300/>   | <img width=300/>   |
 
-
-
-## Responsive Web Design
-
-- HTML
-- CSS
-- Responsive Design
-- Bootstrap
-- Sass
-- Projects:
-    - [Tribute Page](https://curiousgarlic.github.io/tribute/ "Tribute to Maya Angelou")
-    - [Survey Form](https://curiousgarlic.github.io/survey/ "Dream Vacation survey form")
-    - [Product Landing](https://curiousgarlic.github.io/product-landing/ "The best that Apple has to offer")
-    - [Technical Documentation](https://curiousgarlic.github.io/tech-doc/ "Technical documentation for Life")
-    - [Portfolio Page](https://curiousgarlic.github.io/portfolio-page/ "A portfolio page")
 
 ## Git
 
