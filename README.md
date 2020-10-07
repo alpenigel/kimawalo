@@ -8,54 +8,11 @@ Ark
 | Python | Variables <br> Formatting Strings <br> Conditions <br> Sequences and Loops <br> Functions <br> Modules <br> Object-Oriented Programming <br> Functional Programming <br> Exceptions |  |
 | Django | Web Applications<br>HTTP<br>Routes<br>Templates<br>Tasks<br>Forms<br>Sessions |  |
 | SQL, Models and Migrations | Tables<br>SQL Queries<br>Joining Tables<br>Django Models<br>Migrations<br>Shell<br>Django Admin<br>Many-to-Many Relationships<br>Users |  |
-| ... | ...<br>...<br>...<br>...<br>... |  |
-| ... | ...<br>...<br>...<br>...<br>... |  |
+| JavaScript | Events<br>Variables<br>querySelector<br>DOM Manipulation<br>Intervals<br>Local Storage<br>APIs |  |
+| User Interfaces | Single Page Applications<br>Scroll<br>Animation<br>React |  |
+| Testing and CI/CD | Testing<br>Assert<br>Unit Testing<br>Django Testing<br>Selenium<br>CI/CD<br>Github Actions<br>Docker |  |
+| Scalability and Security | Scalability<br>Scaling<br>Load Balancing<br>Autoscaling<br>Scaling Databases<br>Caching<br>Security<br>HTML<br>HTTPS<br>Databases<br>Javascript |  |
 | <img width=200/> | <img width=300/>   | <img width=300/>   |
 
 ---
-
-
-## JavaScript
-
-- JavaScript
-- Events
-- Variables
-- querySelector
-- DOM Manipulation
-- Intervals
-- Local Storage
-- APIs
-
-## User Interfaces
-
-- User Interfaces
-- Single Page Applications
-- Scroll
-- Animation
-- React
-
-## Testing and CI/CD
-
-- Testing
-- Assert
-- Unit Testing
-- Django Testing
-- Selenium
-- CI/CD
-- GitHub Actions
-- Docker
-
-## Scalability and Security
-
-- Scalability
-- Scaling
-- Load Balancing
-- Autoscaling
-- Scaling Databases
-- Caching
-- Security
-- HTML
-- HTTPS
-- Databases
-- JavaScript
 
